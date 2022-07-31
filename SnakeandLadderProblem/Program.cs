@@ -10,4 +10,5 @@ Console.WriteLine("Wellcome to Snake and Ladder Problem");
 //SnakeandLadder.SnakeandLadderUC3();
 //SnakeandLadder.SankeandLadderUC4();
 //SnakeandLadder.SnakeandLadderUC5();
-SnakeandLadderUC6.SankeLadderUC6();
+//SnakeandLadderUC6.SankeLadderUC6();
+SankeandLadderUC7.TwoPlayerUC7();
