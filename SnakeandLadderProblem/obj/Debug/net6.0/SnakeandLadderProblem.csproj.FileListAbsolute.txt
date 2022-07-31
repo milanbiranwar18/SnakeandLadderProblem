@@ -1,0 +1,15 @@
+D:\repo179batch\SnakeandLadderProblem\SnakeandLadderProblem\bin\Debug\net6.0\SnakeandLadderProblem.exe
+D:\repo179batch\SnakeandLadderProblem\SnakeandLadderProblem\bin\Debug\net6.0\SnakeandLadderProblem.deps.json
+D:\repo179batch\SnakeandLadderProblem\SnakeandLadderProblem\bin\Debug\net6.0\SnakeandLadderProblem.runtimeconfig.json
+D:\repo179batch\SnakeandLadderProblem\SnakeandLadderProblem\bin\Debug\net6.0\SnakeandLadderProblem.dll
+D:\repo179batch\SnakeandLadderProblem\SnakeandLadderProblem\bin\Debug\net6.0\SnakeandLadderProblem.pdb
+D:\repo179batch\SnakeandLadderProblem\SnakeandLadderProblem\obj\Debug\net6.0\SnakeandLadderProblem.csproj.AssemblyReference.cache
+D:\repo179batch\SnakeandLadderProblem\SnakeandLadderProblem\obj\Debug\net6.0\SnakeandLadderProblem.GeneratedMSBuildEditorConfig.editorconfig
+D:\repo179batch\SnakeandLadderProblem\SnakeandLadderProblem\obj\Debug\net6.0\SnakeandLadderProblem.AssemblyInfoInputs.cache
+D:\repo179batch\SnakeandLadderProblem\SnakeandLadderProblem\obj\Debug\net6.0\SnakeandLadderProblem.AssemblyInfo.cs
+D:\repo179batch\SnakeandLadderProblem\SnakeandLadderProblem\obj\Debug\net6.0\SnakeandLadderProblem.csproj.CoreCompileInputs.cache
+D:\repo179batch\SnakeandLadderProblem\SnakeandLadderProblem\obj\Debug\net6.0\SnakeandLadderProblem.dll
+D:\repo179batch\SnakeandLadderProblem\SnakeandLadderProblem\obj\Debug\net6.0\refint\SnakeandLadderProblem.dll
+D:\repo179batch\SnakeandLadderProblem\SnakeandLadderProblem\obj\Debug\net6.0\SnakeandLadderProblem.pdb
+D:\repo179batch\SnakeandLadderProblem\SnakeandLadderProblem\obj\Debug\net6.0\SnakeandLadderProblem.genruntimeconfig.cache
+D:\repo179batch\SnakeandLadderProblem\SnakeandLadderProblem\obj\Debug\net6.0\ref\SnakeandLadderProblem.dll
